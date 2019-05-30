@@ -1,4 +1,4 @@
-# vue project template with javascript
+# vue project template with javascript for [wsf](https://github.com/csby/wsf) basic service
 
 ## 开发环境
 ### npm 镜像(cnpm: 国内网络加速)
